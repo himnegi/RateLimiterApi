@@ -1,0 +1,1 @@
+•Developed and implemented a rate-limiting solution in a Spring Boot application using Hibernate and Aerospike, efficiently controlling API request traffic to prevent abuse and ensure fair resource utilization across multiple instances. Leveraged Aerospike as a distributed data store to maintain and enforce rate limits effectively
